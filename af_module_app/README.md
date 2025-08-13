@@ -1,11 +1,8 @@
 # af_module_app
 
-A new Flutter module project.
+This module is part of the Application Framework project, and provides various classes for use
+when building Flutter apps.
 
 ## Getting Started
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/to/add-to-app).
+TODO
